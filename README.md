@@ -5,6 +5,7 @@
 <h3>Recent updates</h3>
 
 ![image](https://user-images.githubusercontent.com/62851444/180845968-7a7b1250-8c0c-41c2-bde9-f90c21748753.png)
+![image](https://user-images.githubusercontent.com/62851444/180846268-a2838aa8-fe5c-4456-b87f-b559e4182100.png)
 
 
 ![Screenshot 2022-07-25 015400](https://user-images.githubusercontent.com/62851444/180665570-388c5eea-7997-4373-ad98-cf267298639f.png)
