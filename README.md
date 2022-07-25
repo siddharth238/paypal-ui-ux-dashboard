@@ -1,6 +1,6 @@
 # paypal-ui-ux-dashboard
 <h3>Built from scratch </h3>
-<h3>🔴 The project is live at https://siddharth-paypal-uiux.netlify.app/ </h3> 
+<h3>🔴 The project is live at https://siddharth-paypal-uiux.netlify.app/  </h3> 
 
 
 ![Screenshot 2022-07-25 015400](https://user-images.githubusercontent.com/62851444/180665570-388c5eea-7997-4373-ad98-cf267298639f.png)
