@@ -15,7 +15,7 @@
 
 <h3>Card design illustration with Adobe</h3>
 
- ![image](https://user-images.githubusercontent.com/62851444/180840070-4d8e9eed-728d-41b4-842b-ec2aa939c87b.png)
+![image](https://user-images.githubusercontent.com/62851444/180849446-b9a66ef7-fd3c-43bd-8d30-ce12a5be6bd8.png)
 
 
 
