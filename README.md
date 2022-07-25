@@ -1,6 +1,6 @@
 # paypal-ui-ux-dashboard
 <h3>Built from scratch </h3>
-<h4>Hey Team Paypal, This is my 2 day UI & UX dashboard project exclusively made for team Paypal to show case my UI & UX Expertise that includes Adobe Illustrator, Adobe Photoshop , CSS & SASS ,Javascript to make the UI look more cool and Framer motion to give the the dynamic Animations. The Website is still under update. The updated version will be deployed soon.. :)</h4>
+<h4>This is my 2 day UI & UX dashboard project exclusively made for team Paypal to show case my UI & UX Expertise that includes Adobe Illustrator, Adobe Photoshop , CSS & SASS ,Javascript to make the UI look more cool and Framer motion to give the the dynamic Animations. The Website is still under update. The updated version will be deployed soon.. :)</h4>
 <h3>🔴 The project is live at https://siddharth-paypal-uiux.netlify.app/  </h3> 
 <h3>Recent updates</h3>
 
