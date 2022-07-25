@@ -4,7 +4,7 @@
 <h3>🔴 The project is live at https://siddharth-paypal-uiux.netlify.app/  </h3> 
 <h3>Recent updates</h3>
 
- ![image](https://user-images.githubusercontent.com/62851444/180835488-3f634205-6a2f-4501-af64-39f0ab82b6be.png)
+ ![image](https://user-images.githubusercontent.com/62851444/180840567-95aa05a0-f60b-4384-893c-163fa202b78d.png)
 
 
 ![Screenshot 2022-07-25 015400](https://user-images.githubusercontent.com/62851444/180665570-388c5eea-7997-4373-ad98-cf267298639f.png)
