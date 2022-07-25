@@ -6,6 +6,10 @@
 
 ![image](https://user-images.githubusercontent.com/62851444/180860921-51560f82-74de-4959-9582-08228b32d5ac.png)
 ![image](https://user-images.githubusercontent.com/62851444/180860969-a8d0218b-48b5-4ab5-8bf5-14ae425e4451.png)
+<h3>Screen Loader</h3> 
+
+![image](https://user-images.githubusercontent.com/62851444/180864143-f8db390f-8c2d-4eee-b51e-c8434f9fa00d.png)
+
 
 <h3>Early updates</h3> 
 
