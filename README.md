@@ -41,6 +41,7 @@ This is my 3 day UI & UX dashboard project to show case my Expertise in UI & UX 
  
 ## Design
 
+![image](https://user-images.githubusercontent.com/62851444/181012407-8d2dd894-6991-4bc5-beaa-bc0481de44c3.png)
 
  ![image](https://user-images.githubusercontent.com/62851444/180849446-b9a66ef7-fd3c-43bd-8d30-ce12a5be6bd8.png)
 
