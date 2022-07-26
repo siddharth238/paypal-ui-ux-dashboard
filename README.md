@@ -17,8 +17,8 @@ This is my 3 day UI & UX dashboard project to show case my Expertise in UI & UX 
  
       ![image](https://user-images.githubusercontent.com/62851444/180928815-e00d0701-8be8-402b-a78a-b31b814ffabb.png)
 
-![image](https://user-images.githubusercontent.com/62851444/180860921-51560f82-74de-4959-9582-08228b32d5ac.png)
-![image](https://user-images.githubusercontent.com/62851444/180860969-a8d0218b-48b5-4ab5-8bf5-14ae425e4451.png)
+      ![image](https://user-images.githubusercontent.com/62851444/180860921-51560f82-74de-4959-9582-08228b32d5ac.png)
+      ![image](https://user-images.githubusercontent.com/62851444/180860969-a8d0218b-48b5-4ab5-8bf5-14ae425e4451.png)
 ## Color Reference I used
 
 | Color             | Hex                                                                |
