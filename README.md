@@ -14,6 +14,7 @@ This is my 3 day UI & UX dashboard project to show case my Expertise in UI & UX 
  - [Day 1](https://siddharth-paypal-uiux1.netlify.app/)
  - [Day 2]( https://siddharth-paypal-uiux2.netlify.app/)
  - [Day 3](https://siddharth-paypal-uiux.netlify.app/)
+ 
   ![image](https://user-images.githubusercontent.com/62851444/180928815-e00d0701-8be8-402b-a78a-b31b814ffabb.png)
 
 ![image](https://user-images.githubusercontent.com/62851444/180860921-51560f82-74de-4959-9582-08228b32d5ac.png)
