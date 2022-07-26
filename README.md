@@ -4,9 +4,9 @@
 
 This is my 3 day UI & UX dashboard project to show case my Expertise in UI & UX that includes FIGMA, Adobe Illustrator, Adobe Photoshop, CSS & SASS, Javascript to make the User Interface look more cool, Material UI, Framer motion to give the Application a dynamic Animation. The Dashboard is made without any built-in CSS frameworks. The Dashboard is still under update.
 
-## Figma link
+## Figma Design link
 
- - [Home]( https://www.figma.com/file/DhgWVfPZ3xv42bZjvXofmF/Untitled?node-id=1%3A5)
+ - [Figma]( https://www.figma.com/file/DhgWVfPZ3xv42bZjvXofmF/Untitled?node-id=1%3A5)
   
 
 ## Deployed updates
